@@ -29,5 +29,8 @@
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-react": "^7.12.3",
     "standard-version": "^4.4.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
   }
 }
